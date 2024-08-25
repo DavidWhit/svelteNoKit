@@ -1,4 +1,5 @@
 <script>
+  import "./app.css";
   import counterState from './store.svelte.js'
   import Other from './SomeOther.svelte'
 </script>
